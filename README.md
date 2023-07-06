@@ -2,12 +2,12 @@
 
 
 ![Tarchaud's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarchaud&show_icons=true&theme=dracula&rank_icon=github)
-
+<!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tarchaud&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
+
 **Tarchaud/Tarchaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
