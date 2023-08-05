@@ -32,11 +32,12 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tarchaud&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)
-<!--<br/>
+![](https://github-readme-stats.vercel.app/api?username=Tarchaud&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tarchaud&theme=chartreuse-dark&hide_border=false)<br/>
+<!--
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarchaud&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
-
+<!--
 # App deploy
 - WeatherApp : [widget-weather-card](https://widget-weather-card.netlify.app/widget)
+-->
